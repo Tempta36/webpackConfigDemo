@@ -1,6 +1,8 @@
 require("./index.scss");
+import afn from "./a.js";
 import Logo from "./logo.png";
 import Happy from "./happy.jpg";
+afn();
 
 var element = document.getElementById("img");
 
